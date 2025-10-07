@@ -1,0 +1,1 @@
+A hands-on data analysis project using Python and Pandas on a synthetic employee dataset. Explored, cleaned, and visualized data to uncover insights about departments, salaries, and age trends while practicing core DataFrame functions and visualization techniques.
