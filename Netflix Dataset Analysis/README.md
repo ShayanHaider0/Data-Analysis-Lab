@@ -1,0 +1,1 @@
+A hands-on data analysis project using Python, Pandas, and Matplotlib to explore Netflix’s content library. Performed data cleaning, visualization, and insights extraction to analyze movie vs. TV show distribution, release trends, popular genres, and content ratings.
