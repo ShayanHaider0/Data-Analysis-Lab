@@ -1,0 +1,1 @@
+A brief exploratory data analysis of the Titanic dataset using Pandas, Matplotlib, and Seaborn. Includes data cleaning, visualization, and correlation analysis to understand survival patterns. Focused on identifying key factors that influenced passenger survival.
